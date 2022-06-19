@@ -1,0 +1,20 @@
+{
+  "_fv": 21,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Campfire cooking",
+    "xpReward": 1.0,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "campfireCookingInputStack": {
+      "value": "CUSTOM:Humus"
+    },
+    "campfireCookingReturnStack": {
+      "value": "Items.COAL#1"
+    },
+    "name": "humuscampfire",
+    "namespace": "mod"
+  }
+}

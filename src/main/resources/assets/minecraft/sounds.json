@@ -1,0 +1,154 @@
+{
+  "map.ambience.deepcave": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "custom/ambience/deepcave"
+      } 
+    ]
+  },
+  "map.ambience.desert": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "custom/ambience/desert"
+      } 
+    ]
+  },
+  "map.plane.crasheffect": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "custom/plane/crasheffect"
+      } 
+    ]
+  },
+  "map.ambience.end": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "custom/ambience/end"
+      } 
+    ]
+  },
+  "map.ambience.forestbirch": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "custom/ambience/forestbirch"
+      } 
+    ]
+  },
+  "map.ambience.forestmain": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "custom/ambience/forestmain"
+      } 
+    ]
+  },
+  "map.ambience.forestsnow": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "custom/ambience/forestsnow"
+      } 
+    ]
+  },
+  "map.ambience.foresttaiga": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "custom/ambience/foresttaiga"
+      } 
+    ]
+  },
+  "map.ambience.highlevelmountain": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "custom/ambience/highlevelmountain"
+      } 
+    ]
+  },
+  "map.ambience.highlevelwoods": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "custom/ambience/highlevelwoods"
+      } 
+    ]
+  },
+  "map.ambience.jungle": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "custom/ambience/jungle"
+      } 
+    ]
+  },
+  "map.ambience.middleocean": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "custom/ambience/middleocean"
+      } 
+    ]
+  },
+  "map.ambience.mountain": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "custom/ambience/mountain"
+      } 
+    ]
+  },
+  "map.ambience.oceanwaves": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "custom/ambience/oceanwaves"
+      } 
+    ]
+  },
+  "map.ambience.plains": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "custom/ambience/plains"
+      } 
+    ]
+  },
+  "map.ambience.river": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "custom/ambience/river"
+      } 
+    ]
+  },
+  "map.ambience.savanah": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "custom/ambience/savanah"
+      } 
+    ]
+  },
+  "map.ambience.swamp": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "custom/ambience/swamp"
+      } 
+    ]
+  },
+  "map.ambience.tundra": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "custom/ambience/tundra"
+      } 
+    ]
+  }
+}
